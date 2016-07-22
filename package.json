@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/eyohansa/aesir-bot/issues"
   },
-  "homepage": "https://github.com/eyohansa/aesir-bot#readme"
+  "homepage": "https://github.com/eyohansa/aesir-bot#readme",
+  "dependencies": {
+    "telegram-node-bot": "^3.0.10"
+  }
 }
